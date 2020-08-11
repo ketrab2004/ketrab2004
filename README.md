@@ -20,6 +20,7 @@
 [<img align="left" alt="Lua" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/lua.svg" />][lua]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
+[<img align="left" alt="Css" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/css3.svg" />][css]
 
 <br />
 <br />
@@ -33,8 +34,9 @@
 [robloxStudio]: https://www.roblox.com/create
 [vs]: https://visualstudio.microsoft.com/
 [vsc]: https://code.visualstudio.com/
+[github]: https://github.com/ketrab2004
 
 [html5]: https://ketrab2004.github.io/hangman/
 [javascript]: https://ketrab2004.github.io/hangman/
-[github]: https://github.com/ketrab2004
+[css]: https://ketrab2004.github.io/website/
 [lua]: https://developer.roblox.com/en-us/api-reference/lua-docs/math
