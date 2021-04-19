@@ -26,6 +26,7 @@
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
 [<img align="left" alt="Css" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/css3.svg" />][css]
+[<img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/csharp.svg" />][c#]
 
 <br />
 <br />
@@ -49,3 +50,4 @@
 [javascript]: https://ketrab2004.github.io/website/projects/
 [css]: https://ketrab2004.github.io/website/
 [lua]: https://developer.roblox.com/en-us/api-reference/lua-docs/math
+[c#]: https://docs.unity3d.com/Manual/
