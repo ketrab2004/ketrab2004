@@ -50,6 +50,6 @@
 [html5]: https://ketrab2004.github.io/website/
 [javascript]: https://ketrab2004.github.io/website/projects
 [css]: https://ketrab2004.github.io/website/
-[lua]: https://developer.roblox.com/en-us/api-reference/lua-docs/math
+[lua]: https://developer.roblox.com/en-us/api-reference/lua-docs
 [c#]: https://docs.unity3d.com/Manual/
 [hlslLink]: https://nl.wikipedia.org/wiki/High_Level_Shader_Language
