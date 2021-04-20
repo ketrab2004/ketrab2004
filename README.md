@@ -48,7 +48,7 @@
 [jetbrainsIntellij]: https://www.jetbrains.com/idea/
 
 [html5]: https://ketrab2004.github.io/website/
-[javascript]: https://ketrab2004.github.io/website/projects/
+[javascript]: https://ketrab2004.github.io/website/projects
 [css]: https://ketrab2004.github.io/website/
 [lua]: https://developer.roblox.com/en-us/api-reference/lua-docs/math
 [c#]: https://docs.unity3d.com/Manual/
