@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="emptyFolder.svg"
+   inkscape:export-filename="C:\Prve Documenten\Github_Profile\Organization (folder) Profiles\emptyFolder.png"
+   inkscape:export-xdpi="229.69"
+   inkscape:export-ydpi="229.69"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title17757">Empty Folder</title>
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.8101934"
+     inkscape:cx="162.20746"
+     inkscape:cy="94.54338"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient16391">
+      <stop
+         style="stop-color:#d6c25c;stop-opacity:1"
+         offset="0"
+         id="stop16387" />
+      <stop
+         style="stop-color:#ffdd55;stop-opacity:1"
+         offset="1"
+         id="stop16389" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient15996"
+       inkscape:swatch="gradient">
+      <stop
+         style="stop-color:#ffdd55;stop-opacity:1;"
+         offset="0"
+         id="stop16000" />
+      <stop
+         style="stop-color:#ffdd55;stop-opacity:0;"
+         offset="1"
+         id="stop16002" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient16391"
+       id="linearGradient16393"
+       x1="78.803009"
+       y1="57.322014"
+       x2="61.059917"
+       y2="16.649839"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect1487-9"
+       style="fill:#ffdd55;stroke:#a18312;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+       d="M 50.208074,-7.4344406 H 8.4150226 c -0.8436638,0 -1.5228587,0.6791948 -1.5228587,1.5228584 v 3.8750966 C 6.8378547,-0.69937999 6.0699032,-0.29771576 5.0242018,-0.26012564 27.494476,10.559796 27.505623,10.613444 53.450479,-0.25748458 c -1.01083,0.0211038 -1.68928,-0.54292141 -1.723211,-1.47497052 -0.04405,-1.2099492 0.0023,-2.9683756 0.0037,-4.1791271 9.59e-4,-0.8436631 -0.679195,-1.5228584 -1.522859,-1.5228584 z"
+       sodipodi:nodetypes="ssscccscss" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect1487-4"
+       width="39.268429"
+       height="5.6934791"
+       x="9.6050863"
+       y="-3.9171491"
+       ry="0.54887468"
+       inkscape:transform-center-x="-0.0016932047"
+       inkscape:transform-center-y="-0.77514463" />
+    <rect
+       style="fill:url(#linearGradient16393);stroke:#a18312;stroke-width:0.758073;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke;fill-opacity:1"
+       id="rect1487"
+       width="93.94381"
+       height="58.060471"
+       x="-0.31435603"
+       y="-0.30591205"
+       ry="5.5972667" />
+  </g>
+  <metadata
+     id="metadata17755">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>Empty Folder</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
