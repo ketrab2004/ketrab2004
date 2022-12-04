@@ -1,0 +1,12 @@
+{
+    "files.exclude": {
+        ".gitignore": true,
+        ".vscode": true,
+        ".github": true
+    },
+
+    "explorer.fileNesting.enabled": true,
+    "explorer.fileNesting.patterns": {
+        "*.pdn": "$(capture).png"
+    }
+}
